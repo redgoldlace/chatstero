@@ -1,7 +1,7 @@
-## Chatstero
+# Chatstero
 A simple chatbot for Discord.
 
-# Running
+## Running
 Make sure you have poetry installed.
 Copy config.example.toml, rename to config.toml and fill it in.
 Put your corpus in markov.txt.
