@@ -7,4 +7,4 @@ Copy config.example.toml, rename to config.toml and fill it in.
 Put your corpus in markov.txt.
 Run `poetry install` followed by `poetry run bot.py` and you're set.
 
-This bot requires no special intents from discord.
+This bot requires no special intents from Discord.
